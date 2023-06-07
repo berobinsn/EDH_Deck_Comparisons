@@ -65,7 +65,7 @@ def main():
 
     # add color to our output.
     class color:
-        PURPLE = '\033[95m'AA
+        PURPLE = '\033[95m'
         CYAN = '\033[96m'
         DARKCYAN = '\033[36m'
         BLUE = '\033[94m'
